@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">VirtusaWeatherAppTest</string>
+    <string name="day">day</string>
+    <string name="pressure">PRESSURE</string>
+    <string name="wind">WIND</string>
+    <string name="humidity">HUMIDITY</string>
+    <string name="enter_city_name">ENTER CITY NAME</string>
+    <string name="updated_at">UPDATED AT</string>
+    <string name="temperature_in_degrees">%s °C</string>
+    <string name="temperature_min">min: %s °C</string>
+    <string name="temperature_max">max: %s °C</string>
+    <string name="weather_pressure">PRESSURE:\n%s mb</string>
+    <string name="wind_speed">WIND:\n%s km/h</string>
+    <string name="weather_humidity">HUMIDITY:  \n%s</string>
+    <string name="preference_file_key">com.virtusaweather</string>
+    <string name="prefs_key_city">key_city</string>
+    <string name="weather">Weather</string>
+</resources>
